@@ -10,7 +10,7 @@ namespace Geometric
 {
     public abstract class Shape
     {
-        public void Draw(int x1, int x2, int y1, int y2)
+        public void Draw()
         {
 
         }
